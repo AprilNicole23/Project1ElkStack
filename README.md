@@ -5,6 +5,7 @@ CyberSecurity Bootcamp Project 1
 All the files in this repository were used to configure the network below.
 
 ![](Images/Diagram.png)
+![cloud security](https://user-images.githubusercontent.com/95155860/172552719-47fac615-d9af-4d25-bdea-8ac23257b297.png)
 
 All the files have been tested and used to create a live ELK deployment on Azure Labs. You can use them to create entire deployment. However, select portions of the yaml file may be used to install Filebeat.
 
